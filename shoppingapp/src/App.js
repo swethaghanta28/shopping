@@ -22,17 +22,19 @@ const App = () => {
     <Router>
       <Header />
       <Routes>
+      <Route path="/" element={<HomePage/>} />
+      <Route path="/home" element={<HomePage/>} />
         <Route path="/women" element={<WomenPage />} />
         <Route path="/men" element={<MenPage />} />
         <Route path="/kids" element={<KidPage />} />
         <Route path="/beauty" element={<BeautyPage />} />
         <Route path="/footwear" element={<FootwearPage />} />
         <Route path="/jewellery" element={<JewelleryPage />} />
-        <Route path="/home" element={<HomePage/>} />
         <Route path="/signup" element={<Signuppage/>} />
         <Route path="/signin" element={<Signinpage/>} />
         <Route path="/cart" element={<Cartpage/>} />
         <Route path="/wishlist" element={<Wishlistpage/>} />
+
       </Routes>
       <Footer />
     </Router>

@@ -5,13 +5,12 @@
 }
 
 .content {
-  flex: 1; /* Ensures the content section expands to fill available space */
-  padding: 20px; /* Adjust padding as needed */
+  flex: 1; 
+  padding: 20px;
 }
    
    
    
-  /* Banner Styles */
 .banner {
   width: 100%;
   margin-top: 20px;
