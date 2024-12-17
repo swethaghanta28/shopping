@@ -1,0 +1,46 @@
+  
+  
+.men-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .men-text {
+    margin-bottom: 20px;
+  }
+  
+  .men-text h1 {
+    font-size: 2rem;
+    color:rgb(8, 10, 27);
+    margin-bottom: 10px;
+  }
+  
+  .men-text p {
+    font-size: 1.2rem;
+    color: rgb(92, 88, 101);
+    margin-top:20px;
+  }
+  
+  .men-banner {
+    margin-top: 20px; 
+    width:1500px;
+  }
+
+  
+  .men-banner {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .banner-image {
+    width: 100%;
+    max-width: 1200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .link-gap {
+    margin-right: 10px;
+  }
+  
+  
+ 

@@ -1,0 +1,24 @@
+.main-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1; /* Ensures the content section expands to fill available space */
+  padding: 20px; /* Adjust padding as needed */
+}
+   
+   
+   
+  /* Banner Styles */
+.banner {
+  width: 100%;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.banner-image {
+  width: 1500px;
+  height: 400px;
+}

@@ -1,0 +1,28 @@
+.logo{
+    margin-left:-60px;
+    font-size:40px;
+    color:palevioletred;
+}
+.shops{
+    transform:translate(50px,0px);
+    gap:6px;
+}
+.searchbar{
+    display:flex;
+    margin-left:90px;
+    gap:5px;
+}
+.search-button{
+    background-color:pink;
+}
+.sign{
+    margin-left:30px;
+}
+.loved{
+    margin-left:30px;
+}
+/* Add this CSS to App.css or your relevant stylesheet */
+.color-text {
+    color: brown !important; /* Use !important to override any other styles */
+  }
+  

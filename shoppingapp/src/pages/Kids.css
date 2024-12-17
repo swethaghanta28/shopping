@@ -1,0 +1,44 @@
+.kids-page-wrapper {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .kids-text {
+    margin-bottom: 20px;
+  }
+  
+  .kids-text h1 {
+    font-size: 2rem;
+    color: rgb(184, 103, 116);
+    margin-bottom: 10px;
+    transform: translate(10px, 30px);
+  }
+  
+  .kids-text p {
+    font-size: 1.2rem;
+    color: rgb(169, 83, 106);
+    margin-top: 50px;
+  }
+  
+  .kids-banner {
+    margin-top: 20px;
+    width: 1500px;
+    height: 700px;
+  }
+  
+  .kids-banner {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .banner-image {
+    width: 100%;
+    max-width: 1200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .link-gap {
+    margin-right: 10px;
+  }
+  

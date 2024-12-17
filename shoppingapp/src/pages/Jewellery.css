@@ -1,0 +1,48 @@
+  
+  
+.jewellery-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .jewellery-text {
+    margin-bottom: 20px;
+  }
+  
+  .jewellery-text h1 {
+    font-size: 2rem;
+    color:rgb(24, 144, 157);
+    margin-bottom: 10px;
+    transform: translate(490px,30px);
+  }
+  
+  .jewellery-text p {
+    font-size: 1.2rem;
+    color: rgb(90, 133, 147);
+    margin-top:50px;
+  }
+  
+  .jewellery-banner {
+    margin-top: 20px; /* Space above the image */
+    width:1500px;
+  }
+
+  
+  /* Banner Image */
+  .jewellery-banner {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .banner-image {
+    width: 100%;
+    max-width: 1200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .link-gap {
+    margin-right: 10px;
+  }
+  
+  
+ 

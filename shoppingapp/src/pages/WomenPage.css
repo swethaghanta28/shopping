@@ -1,0 +1,55 @@
+.women-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .women-text {
+    margin-bottom: 20px; 
+  }
+  
+  .women-text h1 {
+    font-size: 2rem;
+    color:rgb(123, 137, 212);
+    margin-bottom: 10px;
+  }
+  
+  .women-text p {
+    font-size: 1.2rem;
+    color: rgb(132, 108, 183);
+    margin-top:20px;
+  }
+  
+  .women-banner {
+    margin-top: 20px;
+    width:1500px;
+  }
+  
+
+  
+  .women-banner {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .banner-image {
+    width: 100%;
+    max-width: 1200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .link-gap {
+    margin-right: 10px;
+  }
+  .button-group {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .offer-card .btn {
+    flex: 1; 
+  }
+  
+  
+  
+ 
